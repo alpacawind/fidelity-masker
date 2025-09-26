@@ -45,9 +45,6 @@ fidelity-account-masker/
 ├── README.md                    # This file
 ├── fidelity-account-masker.js   # Main Tampermonkey script
 ├── LICENSE                      # MIT License
-└── screenshots/                 # Before/after examples
-    ├── before.png
-    └── after.png
 ```
 
 ## 🎯 How it works
@@ -140,35 +137,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This script only affects the visual display in your browser. Your actual account numbers remain unchanged in Fidelity's systems.
-
-```
-I've created a comprehensive README that covers all the essential aspects of your Tampermonkey script repository. Here are the key sections included:
-
-## 📋 **Key Features of this README:**
-
-- **Clear purpose statement** - explains what the script does and why it's useful
-- **Step-by-step installation** - makes it easy for users to get started
-- **Technical documentation** - explains how the script works under the hood
-- **Customization options** - shows users how to modify the script for their needs
-- **Troubleshooting section** - helps users resolve common issues
-- **Contributing guidelines** - encourages community involvement
-- **Important disclaimers** - clarifies what the script does and doesn't do
-
-## 🎯 **Repository Structure Suggested:**
-
-```
-fidelity-account-masker/
-├── README.md
-├── fidelity-account-masker.js
-├── LICENSE
-└── screenshots/
-    ├── before.png
-    └── after.png
-```
-
-## 💡 **Additional Recommendations:**
-
-1. **Add screenshots** showing before/after examples (with fake account numbers)
-2. **Include a LICENSE file** (MIT License is suggested in the README)
-3. **Consider adding a CHANGELOG.md** if you plan to version the script
-4. **Add GitHub issue templates** for bug reports and feature requests
